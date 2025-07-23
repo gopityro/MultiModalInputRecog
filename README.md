@@ -3,7 +3,7 @@ This project is a basic demo that shows how to use hand gestures and voice comma
 
 Built with Python, it uses MediaPipe to track hand gestures, Tkinter for the interface, and the speech_recognition library to take voice commands. Both input methods work together, showing visual feedback to help users understand what’s happening.
 
-The goal is to explore multimodal interaction—letting people use gestures and voice instead of just a keyboard or mouse. This can be useful in hands-free situations and is inspired by modern AI systems that understand speech and images.
+The goal is to explore multimodal interaction, letting people use gestures and voice instead of just a keyboard or mouse. This can be useful in hands-free situations and is inspired by modern AI systems that understand speech and images.
 
 `Run main.py to see the out of the project`:
 
